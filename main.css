@@ -1,0 +1,188 @@
+h1 {
+  color: green;
+   
+    text-align: center;
+
+    
+} 
+p{
+   
+ 
+   font-family: verdana,Arial,Geneva,Arial Black;
+ font-weight: bolder;
+ text-decoration: none;
+ font-style: oblique;
+}
+
+ .blue{
+color: black;
+background-color: rgb(54, 95, 13);
+height: 110px;
+overflow: scroll;
+opacity: 1.0;
+
+} 
+.blue:hover{
+opacity: 0.5;
+}
+#call{
+    font-size: 15px;
+    line-height: 1.5em;
+
+    
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+   
+}
+ #cal{
+   
+     font-size: 15px;
+     line-height: 1.5em;
+     
+     border-color: black;
+border-style: ridge;
+
+border-radius: 10px;
+
+
+
+
+ }
+ .hugo{
+     height: 260px;
+     width: 260px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+   
+     background-color: black;
+     border-style: solid;
+     
+ }
+ h3{
+    
+     text-align: center;
+ }
+ h2{
+  
+    text-align: center;
+ }
+ .won{
+     display: block;
+     text-align: center;
+     background-color: black;
+     border: none;
+ }
+ .qut{
+border: none;
+ }
+ .boni{
+     background-color: yellow;
+ }
+ h4{
+color: black;
+text-decoration: underline;
+
+ } 
+ a:link{
+     color: blue;
+ }
+ a:visited{
+    color:white; 
+ }
+ a:hover{
+     color: red;
+    
+ }
+.image{
+  float: left;  
+  margin-right: 10px;
+  
+}
+ul{
+list-style: none;
+padding: 0px;
+margin: 0px;
+text-align: center;
+}
+  //ul li a{
+   text-decoration: none; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: black;
+display: block;
+padding: 5px;
+
+}
+#nav{
+    background-color: black;
+    height: 59px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+  
+}
+#nav li{
+    display: inline;
+    padding: 15px;
+    vertical-align: middle;
+}
+ 
+#nav a{
+    text-decoration: none;
+    padding: 8px 8px 8px 8px;
+    vertical-align: middle;
+}
+.button{
+  
+    border: 1px solid;
+    border-radius: 3px;
+    height: 30px;
+    text-align: center;
+    margin-right: 10px;
+    box-sizing: border-box;
+    font: 700 13px Helvetica,Arial;
+    line-height: 30px;
+    padding: 0px 20px;
+}
+ul{
+    padding: 0px;
+   list-style-type: none;
+}
+#theform{
+    color:black;
+    display: table;
+    padding: 15px;
+    background-color: burlywood;
+    border: solid 2px black;
+    opacity: 1.0;
+}
+#theform:hover{
+    opacity: 0.5;
+}
+.row {
+    display: table-row;
+}
+.row label{
+    display: table-cell;
+    padding:  2px;
+}
+.row input{
+    display: table-cell;
+    padding: 2px;
+}
+.footer{ 
+    background-color: blue;
+    color: white;
+    height: 160px;
+    float: left;
+    background: linear-gradient(blue 50%,yellow 50%);
+ 
+}
+.combine{
+  height: 300px;  
+background: grey;
+background: linear-gradient(rgba(255,255,0,0.3),rgba(0,0,255,1));
+font-size: 40px;
+text-shadow: 3px 3px  20px white;
+}
